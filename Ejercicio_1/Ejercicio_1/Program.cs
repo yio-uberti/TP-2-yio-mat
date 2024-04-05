@@ -2,22 +2,29 @@
 {
     internal class Program
     {
-        public static string invertirCifras(string palabra) {
-            char[] palabra_invertida =  {'0'};
-            uint contador = 0; 
+        public static int invertirCifras(string palabra) {
+            
+            int resultado = 0, numero;
+            numero = int.Parse(palabra);
 
-            for (int i = palabra.Length; i > 0; i--)
+            for (int i = 0; i < palabra.Length; i++)
             {
-                palabra_invertida[contador] = palabra[i];
-                contador++;
+                //Asigno el último dígito
+                resultado += numero % 10;
+                
+                //Descarto el último dígito
+                numero /= 10;
+    
+                //Corro la cifra de lugar hacia la izquiera
+                resultado *= 10;
             }
-            return Convert.ToString(palabra_invertida);
+
+            return resultado/10;
         }
         static void Main(string[] args)
         {
             Console.WriteLine("Ingrese el numero a invertir: ");
             String input = Console.ReadLine();
-
             Console.WriteLine($"{invertirCifras(input)}");
             
             
