@@ -1,0 +1,15 @@
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\bin\Debug\net8.0\Ejercicio_4.exe
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\bin\Debug\net8.0\Ejercicio_4.deps.json
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\bin\Debug\net8.0\Ejercicio_4.runtimeconfig.json
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\bin\Debug\net8.0\Ejercicio_4.dll
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\bin\Debug\net8.0\Ejercicio_4.pdb
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.AssemblyInfoInputs.cache
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.AssemblyInfo.cs
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.sourcelink.json
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.dll
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\refint\Ejercicio_4.dll
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.pdb
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\Ejercicio_4.genruntimeconfig.cache
+C:\Users\diazs\OneDrive\Escritorio\repo\TP-2-yio-mat\Ejercicio_4\Ejercicio_4\obj\Debug\net8.0\ref\Ejercicio_4.dll
