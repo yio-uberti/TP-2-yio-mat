@@ -58,6 +58,7 @@ namespace Ejercicio_6
                     break;
                 case "7":
 
+
                     break;
                 case "8":
                         Console.WriteLine($"La raiz cuadrada del Nro1 es: {Math.Sqrt(Nro1)}");
@@ -90,7 +91,6 @@ namespace Ejercicio_6
                     break;
             }
         }
-
         static int factorial(int num)
         {
 
@@ -103,7 +103,6 @@ namespace Ejercicio_6
 
             return ope;
         }
-
         static double coseno(int num) {
 
             double result = num;
