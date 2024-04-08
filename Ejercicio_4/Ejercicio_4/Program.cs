@@ -56,7 +56,6 @@ namespace Ejercicio_4
                     break;
             }   
         }
-
         static int factorial(int num) {
 
             int i = 1,ope = 1;
