@@ -1,4 +1,5 @@
-﻿using System.Timers;
+﻿using System.Reflection.Metadata;
+using System.Timers;
 
 namespace Ejercicio_4
 {
@@ -52,7 +53,8 @@ namespace Ejercicio_4
                     Console.WriteLine($"El residuo es: {residuo}");
                     break;
                 case "7":
-                    //No se como hacerlo y para que no me retes usando ChatGpt hacelo vos
+                    Console.WriteLine($"El Nro1 en binario es: {Convert.ToString(Nro1, 2)}");
+                    Console.WriteLine($"El Nro2 en binario es: {Convert.ToString(Nro2, 2)}");
                     break;
             }   
         }
@@ -67,5 +69,50 @@ namespace Ejercicio_4
 
             return ope;
         }
+        
+        /*
+        public static int binario(int numero){
+            int aux = 0;
+            int resultado = numero;
+            bool noAparecio1 =  true;
+            uint contadorNumAntesDelUno = 0;
+
+            //! El problema es que al multiplicar por 0 no funciona bien hecho de correr caracteres de lugar: Hay 2 soluciones, se utiliza un array de char o usar un contador
+
+            while(numero != 0){
+                aux = numero % 2;
+                if (aux == 1 && noAparecio1)
+                {
+                    noAparecio1 = false;
+                    aux *= (int)contadorNumAntesDelUno;
+                }
+
+                if (noAparecio1)
+                {
+                    contadorNumAntesDelUno++;
+                }
+
+                //Corro de lugar el Digito
+                aux *= 10;
+                numero /= 2;
+            }
+
+            //Acomodo los numeros en sentido inverso
+            numero = 0; // Lo uso como auxiliar ahora
+            for (int i = resultado.ToString().Length; i > 0; i--)
+            {
+                // Asigno el Digito
+                resultado += aux % 10;
+
+                //Corro de lugar el Digito
+                resultado *= 10;
+
+                // Descarto el Digito
+                resultado /= 10;
+            }
+
+            return resultado;
+        }
+        */
     }
 }

@@ -57,8 +57,8 @@ namespace Ejercicio_6
                         Console.WriteLine($"El residuo es: {residuo}");
                     break;
                 case "7":
-
-
+                    Console.WriteLine($"El Nro1 en binario es: {Convert.ToString(Nro1, 2)}");
+                    Console.WriteLine($"El Nro2 en binario es: {Convert.ToString(Nro2, 2)}");
                     break;
                 case "8":
                         Console.WriteLine($"La raiz cuadrada del Nro1 es: {Math.Sqrt(Nro1)}");
