@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             double Base, Altura, Resultado;
-            string linea; //? No se para que se utiliza
+            //string linea; En este ejercicio no me hizo falta aplicarlo 
 
             // Entrada de datos
             Console.WriteLine("Ingrese la base del triangulo: ");
