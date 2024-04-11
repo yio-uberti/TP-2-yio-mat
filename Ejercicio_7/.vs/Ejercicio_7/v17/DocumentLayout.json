@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Grary\\Documents\\GitHub\\Laboratorio-III-UTN\\TP-2-yio-mat\\Ejercicio_7\\",
+  "WorkspaceRootPath": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\TP-2-yio-mat\\Ejercicio_7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81ADB529-D1AE-4E0A-A985-058EAFE8C646}|Ejercicio_7\\Ejercicio_7.csproj|c:\\users\\grary\\documents\\github\\laboratorio-iii-utn\\tp-2-yio-mat\\ejercicio_7\\ejercicio_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81ADB529-D1AE-4E0A-A985-058EAFE8C646}|Ejercicio_7\\Ejercicio_7.csproj|solutionrelative:ejercicio_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\TP-2-yio-mat\\Ejercicio_7\\Ejercicio_7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio_7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Grary\\Documents\\GitHub\\Laboratorio-III-UTN\\TP-2-yio-mat\\Ejercicio_7\\Ejercicio_7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\TP-2-yio-mat\\Ejercicio_7\\Ejercicio_7\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_7\\Program.cs",
-              "ToolTip": "C:\\Users\\Grary\\Documents\\GitHub\\Laboratorio-III-UTN\\TP-2-yio-mat\\Ejercicio_7\\Ejercicio_7\\Program.cs",
+              "ToolTip": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\TP-2-yio-mat\\Ejercicio_7\\Ejercicio_7\\Program.cs",
               "RelativeToolTip": "Ejercicio_7\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T02:58:23.063Z",
               "EditorCaption": ""

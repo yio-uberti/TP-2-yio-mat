@@ -22,6 +22,7 @@
                 Console.WriteLine($"El número aleatorio es: {Nro}, su caracter ASCII es: {caracter}");
 
             }
+            Console.ReadKey();
         }
     }
 }
