@@ -20,7 +20,7 @@ namespace Ejercicio_6
             Console.WriteLine("1) SUMA \n2) RESTA \n3) DIVISION " +
                 "\n4) PRODUCTO \n5) FACTORIAL \n6) RESIDUO \n7) CONVERTIR A BINARIO" +
                 "\n8) RAIZ CUADRADA \n9) POTENCIA \n10) COSENO \n11) SENO \n12) VALOR ABSOLUTO" +
-                "\n13) REDONDEO \n14) NRO MAXIMO");
+                "\n13) REDONDEO \n14) NRO MAXIMO \n15) NRO MINIMO");
 
             Console.WriteLine("\nSu opcion: ");
             entrada = Console.ReadLine();
@@ -88,6 +88,9 @@ namespace Ejercicio_6
                     break;
                 case "14":
                         Console.WriteLine($"Valor maximo es: {Math.Max(Nro1, Nro2)}");
+                    break;
+                case "15":
+                        Console.WriteLine($"Valor minimo es {Math.Min(Nro1, Nro2)}");
                     break;
             }
         }
